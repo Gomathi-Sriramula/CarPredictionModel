@@ -2,15 +2,15 @@
 An interactive Flask web app that predicts the resale price of a car based on user inputs like car year, fuel type, seller type, and more. Hosted live using ngrok!
 
 🔗 Live Demo
-🌍 Access the project here (active while ngrok is running):
-👉 https://3892-2409-40f0-605d-557a-51e6-8f3a-d118-6e7f.ngrok-free.app
+🌍 Access the project here (active while render is running):
+👉 https://carpredictionmodel-u25b.onrender.com/
 
 💡 Features
 ✅ Predicts car prices using a trained ML model 
 ✅ Clean and user-friendly form interface
 ✅ Real-time predictions
 ✅ Easy to run locally
-✅ Live sharing with ngrok
+✅ Live sharing with render
 
 📁 Project Structure
 CarPredictionModel/
@@ -28,5 +28,5 @@ Python 🐍
 Flask 🌶️
 scikit-learn 🤖
 HTML + CSS 🖥️
-ngrok 🌐 (for sharing live app)
+render 🌐 (for sharing live app)
 
