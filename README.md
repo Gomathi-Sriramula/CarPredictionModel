@@ -1,5 +1,5 @@
 🚗 Car Price Prediction Model
-An interactive Flask web app that predicts the resale price of a car based on user inputs like car year, fuel type, seller type, and more. Hosted live using ngrok!
+An interactive Flask web app that predicts the resale price of a car based on user inputs like car year, fuel type, seller type, and more. Hosted live using render!
 
 🔗 Live Demo
 🌍 Access the project here (active while render is running):
